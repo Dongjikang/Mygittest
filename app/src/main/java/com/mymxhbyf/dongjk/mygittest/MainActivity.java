@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void init1() {
+        //delete is 
     }
 
     private void init() {
